@@ -1,0 +1,2 @@
+com/example/pokedex/BuildConfig.java
+ com.example.pokedex.BuildConfig
